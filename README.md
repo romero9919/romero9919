@@ -19,6 +19,7 @@ I will become a developer who always works hard.
 <p align="center">
 
 - **Languages**:
+  
     ![](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logoColor=white)
     ![](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=PHP&logoColor=white)
     ![](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
