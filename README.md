@@ -18,14 +18,20 @@ I will become a developer who always works hard.
 
 <p align="center">
 
+- **Languages**:
+    ![](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logoColor=white)
+    ![](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=PHP&logoColor=white)
+    ![](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
+    ![](https://img.shields.io/badge/SQL-9945FF.svg?style=for-the-badge&logoColor=white)
+
+<br>
+
 - **Back-End Development**:
     
-    ![](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logoColor=white)
     ![](https://img.shields.io/badge/Spring%20-%2116384C.svg?style=for-the-badge&logo=Spring&logoColor=white)
     ![](https://img.shields.io/badge/SpringBoot%20-%2116384C.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
-    ![](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=PHP&logoColor=white)
     ![](https://img.shields.io/badge/Node.js-FDB515.svg?style=for-the-badge&logo=Node.js&logoColor=black)
-    ![](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
     ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
     ![](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
     ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -37,7 +43,6 @@ I will become a developer who always works hard.
 
     ![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
     ![](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 
