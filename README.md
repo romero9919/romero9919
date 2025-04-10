@@ -21,7 +21,6 @@ I will become a developer who always works hard.
 - **Languages**:
   
     ![](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logoColor=white)
-    ![](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
     ![](https://img.shields.io/badge/SQL-9945FF.svg?style=for-the-badge&logoColor=white)
 
@@ -48,7 +47,6 @@ I will become a developer who always works hard.
     ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-
     ![](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white)
     ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
 
