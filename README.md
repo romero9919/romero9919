@@ -19,41 +19,13 @@ Pokettwin Global ('26. 05. ~ ing)
   
 <br/>
 
-<p align="center">
-
-- **Languages**:
-  
-    ![](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logoColor=white)
-    ![](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
-    ![](https://img.shields.io/badge/SQL-9945FF.svg?style=for-the-badge&logoColor=white)
-
-<br>
-
-- **Back-End Development**:
-    
-    ![](https://img.shields.io/badge/Spring%20-%2116384C.svg?style=for-the-badge&logo=Spring&logoColor=white)
-    ![](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-    ![](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
-    ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-    ![](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-    ![](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
-    ![](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-    ![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
-
-
-</p>
-
+QA portfolio <br />
+https://docs.google.com/spreadsheets/d/1UsW9KHDIVgiwVG9gCejTk18hqbsrE8j07FzqFqLrmPI/edit?usp=sharing <br />
+- 게임 QA를 위한 Test Case 작성 예시 - <트릭컬 리바이브> 의 테마극장 Test Case를 작성해 보았습니다.<br />
+<br />
+<br />
+<br />
+weg develop portfolio (disable) <br />
+https://github.com/romero9919/sameboard.git <br />
+- 서로 다른 언어를 바탕으로 동일한 게시판 n개를 구현한 프로젝트입니다.
 ---
