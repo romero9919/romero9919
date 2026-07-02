@@ -5,9 +5,9 @@
 QA Engineer <br />
 Completed the Java developer course at ezen Computer Academy<br />
 Widenet Engeneering (2024. 06. ~ ing) <br />
-genie music ('24. 06. ~ '26. 03.)<br />
-Tmap ('26. 04.)<br />
-Pokettwin Global ('26. 05. ~ ing)
+- genie music ('24. 06. ~ '26. 03.)<br />
+- Tmap ('26. 04.)<br />
+- Pokettwin Global ('26. 05. ~ ing)
 
 
 <!-- <img align="right" alt="GIF" src="https://musicart.co.kr/images/banner01.png" width="432" height="244" /> -->
