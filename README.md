@@ -27,5 +27,6 @@ https://docs.google.com/spreadsheets/d/1UsW9KHDIVgiwVG9gCejTk18hqbsrE8j07FzqFqLr
 <br />
 weg develop portfolio (disable) <br />
 https://github.com/romero9919/sameboard.git <br />
-- 서로 다른 언어를 바탕으로 동일한 게시판 n개를 구현한 프로젝트입니다.
+- 서로 다른 언어를 바탕으로 동일한 게시판 n개를 구현한 프로젝트입니다. <br />
+
 ---
