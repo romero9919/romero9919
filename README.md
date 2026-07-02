@@ -2,15 +2,18 @@
 <!-- [![ProfileBanner](https://musicart.co.kr/images/banner02.png)](https://musicart.co.kr/) -->
 
 ### About me🧑:
-I am a web developer who is just starting to branch out. <br />
-I completed the Java developer course at ezen Computer Academy.<br />
-However, I was very interested in other languages, so I taught myself several languages, including Java, nodejs, react, and php.<br />
-I will become a developer who always works hard.
+QA Engineer <br />
+Completed the Java developer course at ezen Computer Academy<br />
+Widenet Engeneering (2024. 06. ~ ing) <br />
+genie music ('24. 06. ~ '26. 03.)<br />
+Tmap ('26. 04.)<br />
+Pokettwin Global ('26. 05. ~ ing)
+
 
 <!-- <img align="right" alt="GIF" src="https://musicart.co.kr/images/banner01.png" width="432" height="244" /> -->
 
 - 🌱 I’m currently learning Backend Development, Frontend Web Development & Android Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 👯 I’m work as Software / Web / App / Game QA.
 - 🤔 I’m looking for help with Open source Contribution.
 - 😄 Pronouns: He/Him
   
