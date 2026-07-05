@@ -21,14 +21,14 @@ Widenet Engeneering (2024. 06. ~ ing) <br />
   
 <br/>
 
-QA portfolio <br />
+### QA portfolio <br />
 https://docs.google.com/spreadsheets/d/1UsW9KHDIVgiwVG9gCejTk18hqbsrE8j07FzqFqLrmPI/edit?usp=sharing <br />
-- 게임 QA를 위한 Test Case 작성 예시 - <트릭컬 리바이브> 의 테마극장 Test Case를 작성해 보았습니다.<br />
+게임 QA를 위한 Test Case 작성 예시 - <트릭컬 리바이브> 의 테마극장 Test Case를 작성해 보았습니다.<br />
 <br />
 <br />
 <br />
-web develop portfolio (disable) <br />
+### web develop portfolio (disable) <br />
 https://github.com/romero9919/sameboard.git <br />
-- 서로 다른 언어를 바탕으로 동일한 게시판 n개를 구현한 프로젝트입니다. <br />
+서로 다른 언어를 바탕으로 동일한 게시판 n개를 구현한 프로젝트입니다. <br />
 
 ---
